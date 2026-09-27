@@ -5,7 +5,7 @@ modDatetime: 2026-06-28T04:58:53Z
 title: Aberdeen
 description: ""
 featured: false
-draft: true
+draft: false
 category: casual
 heroImage: /AbCover.jpg
 tags:
